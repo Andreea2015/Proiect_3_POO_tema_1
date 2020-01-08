@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1578511688 source:d:\codeblocks\proiecte\proiect3_poo\main.cpp
+	<iostream>
+	<unordered_map>
+	<typeinfo>
+	<string.h>
+
